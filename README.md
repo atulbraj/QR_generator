@@ -27,7 +27,3 @@ This will generate a QR code image for the provided URL and save it as `myfirst_
 
 - [qrcode](https://github.com/lincolnloop/python-qrcode)
 - [Pillow (PIL)](https://pillow.readthedocs.io/en/stable/)
-
-```
-
-You can customize this README as needed. Make sure to provide accurate information about your project and dependencies.
